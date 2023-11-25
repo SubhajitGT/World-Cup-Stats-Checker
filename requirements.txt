@@ -1,0 +1,4 @@
+langchain
+chromadb
+streamlit
+transformers
